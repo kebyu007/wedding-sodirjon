@@ -2,7 +2,7 @@ export const weddingData = {
   couple: { first: "Sodirbek", second: "Umidaxon" },
   date: new Date("2026-11-08T17:00:00+05:00"),
   dateLabel: "08 · 11 · 2026",
-  weekday: "Shanba",
+  weekday: "Yakshanba",
   time: "17:00",
   venue: "Meros To'yxonasi",
   address: "Farg'ona sh., Buvayda tumani",
