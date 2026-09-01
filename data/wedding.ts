@@ -1,13 +1,25 @@
 export const weddingData = {
-  couple: { first: "Sodirbek", second: "Umidaxon" },
+  couple: {
+    first: "Sodirbek",
+    second: "Umidaxon",
+  },
+
   date: new Date("2026-11-08T17:00:00+05:00"),
+
   dateLabel: "08 · 11 · 2026",
+
   weekday: "Yakshanba",
+
   time: "17:00",
+
   venue: "Meros To'yxonasi",
+
   address: "Farg'ona sh., Buvayda tumani",
+
   mapUrl: "https://maps.app.goo.gl/tzdWRMJ9maY5ZSJCA?g_st=atm",
+
   heroImage: "/images/wedding-hero.png",
+
   gallery: [
     {
       src: "/images/wedding-gallery-1.png",
@@ -18,6 +30,7 @@ export const weddingData = {
       alt: "Uzuk taqqan kelin-kuyov qo‘llari",
     },
   ],
+
   schedule: [
     {
       time: "07:30",
